@@ -1,0 +1,84 @@
+{
+    "status":"ok",
+    "totalResults":6,
+    "articles":[
+       {
+          "source":{
+             "id":"news24",
+             "name":"News24"
+          },
+          "author":"Sport24 staff",
+          "title":"JP Duminy called up as consultant to Proteas for T20 World Cup | Sport",
+          "description":"Cricket South Africa has named JP Duminy and Justin Sammons as specialist consultants to the Proteas for the T20 World Cup.",
+          "url":"https://www.news24.com/sport/Cricket/Proteas/jp-duminy-called-up-as-consultant-to-proteas-for-t20-world-cup-20210910",
+          "urlToImage":"https://cdn.24.co.za/files/Cms/General/d/11564/61be6a63f001436c93d625e5906cfd2a.jpg",
+          "publishedAt":"2021-09-10T14:50:20+00:00",
+          "content":"Cricket South Africa (CSA) on Friday named JP Duminy and Justin Sammons as specialist consultants to the Proteas for the T20 World Cup to be played in Oman and the United Arab Emirates next month. \r\n… [+2043 chars]"
+       },
+       {
+          "source":{
+             "id":"talksport",
+             "name":"TalkSport"
+          },
+          "author":"Josh Fordham",
+          "title":"England vs India fifth Test late cancellation leaves cricket fans out of pocket and Barmy Army chief...",
+          "description":"",
+          "url":"https://talksport.com/sport/cricket/940919/england-india-test-postponed-coronavirus-fans-out-of-pocket/",
+          "urlToImage":"https://talksport.com/wp-content/uploads/sites/5/2021/09/TALKSPORT-Test-and-Barmy-Army.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "publishedAt":"2021-09-10T10:19:51Z",
+          "content":"Cricket fans are devastated at the prospect of losing thousands of pounds after Englands fifth Test against India was called off at the 11th hour.\r\nThe match at Old Trafford was postponed on Friday m… [+3451 chars]"
+       },
+       {
+          "source":{
+             "id":"talksport",
+             "name":"TalkSport"
+          },
+          "author":"Oliver Dawnay",
+          "title":"Steve Harmison fears ‘this is the end of Test match cricket’ as India accused of pulling out fifth Test aga...",
+          "description":"",
+          "url":"https://talksport.com/sport/cricket/940894/steve-harmison-england-india-fifth-test-cancelled-cricket/",
+          "urlToImage":"https://talksport.com/wp-content/uploads/sites/5/2021/09/GettyImages-1196509885-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "publishedAt":"2021-09-10T09:41:21Z",
+          "content":"Steve Harmison fears the cancelled fifth Test between England and India is ‘the beginning of the end for Test cricket.’\r\nThe series decider at Old Trafford was abandoned on the morning of the match, … [+3889 chars]"
+       },
+       {
+          "source":{
+             "id":"abc-news-au",
+             "name":"ABC News (AU)"
+          },
+          "author":"ABC News",
+          "title":"Final England-India cricket Test called off after COVID-19 outbreak in Indian camp",
+          "description":"The Old Trafford Test is cancelled after India confirms it won't be able to field a team due to fears of a growing number of positive cases inside the touring party.",
+          "url":"http://www.abc.net.au/news/2021-09-10/covid-19-fifth-england-india-cricket-test-cancelled/100453610",
+          "urlToImage":"https://live-production.wcms.abc-cdn.net.au/2bacc2d59026040cb6e311ae709ce2f4?impolicy=wcms_crop_resize&cropH=1419&cropW=2523&xPos=2471&yPos=1914&width=862&height=485",
+          "publishedAt":"2021-09-10T08:39:00Z",
+          "content":"The fifth and final Test of the series between England and India in Manchester has been cancelled following a coronavirus outbreak in the Indian camp.\r\nThe cancellation of the Test was confirmed bare… [+832 chars]"
+       },
+       {
+          "source":{
+             "id":"espn-cric-info",
+             "name":"ESPN Cric Info"
+          },
+          "author":null,
+          "title":"PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+          "description":"Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+          "url":"http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+          "urlToImage":"https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+          "publishedAt":"2020-04-27T11:41:47Z",
+          "content":"Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+       },
+       {
+          "source":{
+             "id":"espn-cric-info",
+             "name":"ESPN Cric Info"
+          },
+          "author":null,
+          "title":"What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+          "description":"Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+          "url":"http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+          "urlToImage":"https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+          "publishedAt":"2020-03-30T15:26:05Z",
+          "content":"Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+       }
+    ]
+ }
